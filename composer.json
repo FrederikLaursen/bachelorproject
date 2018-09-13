@@ -1,0 +1,10 @@
+{
+  "config": {
+    "vendor-dir": "vendor",
+    "disable-tls": true,
+    "secure-http": false
+  },
+  "require": {
+    "phpunit/phpunit": "7.1.5"
+  }
+}
