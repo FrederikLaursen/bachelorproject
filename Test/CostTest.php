@@ -1,11 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Patrick Quitzau Jens
- * Date: 08-05-2018
- * Time: 09:04
- */
-
 namespace Test;
 require '../Cost.php';
 
