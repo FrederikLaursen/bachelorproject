@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Bubber
- * Date: 08-05-2018
- * Time: 09:05
- */
 require '../Route.php';
 use API\Route;
 use PHPUnit\Framework\TestCase;
